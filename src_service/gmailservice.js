@@ -10,9 +10,9 @@ const base64url = require('base64url');
 var deasync = require('deasync');
 
 var urlRoot = "https://www.googleapis.com/gmail/v1/users";
-var githubtoken = 'eec3fb2e14a46afa4a2f06278f05b540da696566'; // krithika ncsu github token
+var githubtoken = 'paste github token here';
 
-var userId = "ksekhar@ncsu.edu"; //gmailId
+var userId = "jsarava@ncsu.edu"; //gmailId
 var gmailToken= "ya29.Glv9BBJijDGlmFP7xg29xtp4S_hU7-WVs8Vt-L66JkM5walR9Ef_WTfTcI55xlhLvkNbWMXji1jnCi3XwLju0Kty3oqdqIjTqURpQucLKfmfY_lhPo8DV_t8YkCh"; // Give Access token here
 var listMessage=
 {
